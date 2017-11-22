@@ -4,11 +4,15 @@ You can open and play sound this plugin.
 
 ## Getting Started
 
+```
 <script src='jquery-2.2.0.min.js'></script>
 <script src='jquery.openSound.js'></script>
+```
 
 ### Usage
 
+
+```
  //Open Sound
  $.openSound('http://example.org/sound.wav')
  $.openSound('/attachments/sounds/1234.wav')
@@ -16,6 +20,7 @@ You can open and play sound this plugin.
  
  //Stop Sound
  $.stopSound();
+```
 
 
 ### Demo

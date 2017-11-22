@@ -8,6 +8,7 @@
  * $.stopSound();
 **/
 
+
 (function ($) {
     $.extend({
         openSound: function () {
